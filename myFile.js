@@ -1,6 +1,6 @@
 console.log('hello world');
 
-var hello = "hi";
+var hello = "hi123";
 
 function addTwoVar(a, b) {
     return a + b;
