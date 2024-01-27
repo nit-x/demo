@@ -1,5 +1,7 @@
 console.log('hello world');
 
-function add(a, b) {
+var chatgpt_apikey = "some api key";
+
+function addTwoVar(a, b) {
     return a + b;
 }
